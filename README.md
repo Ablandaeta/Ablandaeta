@@ -1,7 +1,7 @@
 # 👋 ¡Hola y bienvenid@ a mi perfil de GitHub!
 
-Soy **Abraham Landaeta**, Ingeniero de Sonido y entusiasta de la tecnología, actualmente ampliando mi carrera hacia el desarrollo web. Me encanta explorar cómo el código y el audio pueden entrelazarse para crear experiencias únicas.  
-Apasionado por el **frontend**, curioso del **backend** y constantemente aprendiendo nuevas herramientas para dar vida a mis ideas. 🚀
+Soy **Abraham Landaeta**, Full-Stack developer, Ingeniero de Sonido y entusiasta de la tecnología, actualmente ampliando mi carrera hacia el desarrollo web. Explorando cómo el código y el audio pueden entrelazarse para crear experiencias únicas.  
+concurrente en el **frontend**, curioso del **backend** y constantemente aprendiendo nuevas herramientas. 🚀
 
 ---
 
